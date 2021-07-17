@@ -79,6 +79,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonyeohun&count_bg=%234A75FF&title_bg=%23FDFDFC&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8B&edge_flat=true)](https://hits.seeyoufarm.com) [![](https://img.shields.io/badge/-Tech%2BLife%20Blog-orange)](https://jeonyeohun.tistory.com/)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hunihun956)](https://solved.ac/hunihun956) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonyeohun&hide=jupyter%20notebook,c,racket,php,c%2B%2B&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hunihun956)](https://solved.ac/hunihun956) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonyeohun&hide=jupyter%20notebook,c,racket,php,c%2B%2B,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
