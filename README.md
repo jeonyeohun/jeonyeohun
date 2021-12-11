@@ -82,6 +82,6 @@
  <br/> 
 </details>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jeonyeohun)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jeonyeohun)](https://jeonyeohun.tistory.com)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hunihun956)](https://solved.ac/hunihun956) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonyeohun&hide=jupyter%20notebook,c,racket,php,c%2B%2B,html,css,makefile,ruby,kotlin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
