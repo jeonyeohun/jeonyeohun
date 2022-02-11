@@ -19,9 +19,9 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 ### 📚 Education
 
 - **American School of Ulaanbaatar `졸업`** (2008.09 ~ 2014.06)<br/>
-- **한동대학교 전산전자공학부 컴퓨터공학 `졸업`** (2015.03 ~ 2021.08)<br/>
-- **네이버 커넥트재단 부스트캠프 웹모바일 6기 iOS `챌린지`** (2021.07 ~ 2021.08)<br/>
-- **네이버 커넥트재단 부스트캠프 웹모바일 6기 iOS `멤버십`** (2021.08 ~ 2021.12)<br/>
+- **한동대학교 전산전자공학부 컴퓨터공학과 `졸업`** (2015.03 ~ 2021.08)<br/>
+- **네이버 커넥트재단 부스트캠프 웹모바일 6기 iOS `챌린지 수료`** (2021.07 ~ 2021.08)<br/>
+- **네이버 커넥트재단 부스트캠프 웹모바일 6기 iOS `멤버십 수료`** (2021.08 ~ 2021.12)<br/>
 
 ### 🙋🏻‍♂️ Experiences
 
@@ -33,7 +33,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 
 ### 👀 Projects
 
-- 🤖 **한동새섬봇** : 1200+명의 불편함을 해결하는 교내외 정보제공 챗봇 🤖 [[GitHub](https://github.com/jeonyeohun/SaeSeomBot)][[홈페이지](https://pf.kakao.com/_XxaQyK)]
+- 🤖 **한동새섬봇** : 1200+명의 불편함을 해결하는 교내외 정보제공 챗봇 [[GitHub](https://github.com/jeonyeohun/SaeSeomBot)][[홈페이지](https://pf.kakao.com/_XxaQyK)]
 - 🏃🏻‍♂️ **Mate Runner** : 친구와 함께 달리는 실시간 런닝 앱 [[GitHub](https://github.com/boostcampwm-2021/iOS06-MateRunner)]
 
 
