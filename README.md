@@ -13,8 +13,8 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 
 ### 📚 Education
 
-- **American School of Ulaanbaatar** (2008.09 ~ 2014.06)<br/>
-- **한동대학교 전산전자공학부 `컴퓨터공학` 졸업** (2015.03 ~ 2021.08)<br/>
+- **American School of Ulaanbaatar `졸업`** (2008.09 ~ 2014.06)<br/>
+- **한동대학교 전산전자공학부 컴퓨터공학 `졸업`** (2015.03 ~ 2021.08)<br/>
 - **네이버 커넥트재단 부스트캠프 웹모바일 6기 iOS `챌린지`** (2021.07 ~ 2021.08)<br/>
 - **네이버 커넥트재단 부스트캠프 웹모바일 6기 iOS `멤버십`** (2021.08 ~ 2021.12)<br/>
 
