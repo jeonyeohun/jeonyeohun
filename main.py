@@ -23,8 +23,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 - **네이버 커넥트재단 부스트캠프 웹모바일 6기 iOS 챌린지** (2021.07 ~ 2021.08)<br/>
 - **네이버 커넥트재단 부스트캠프 웹모바일 6기 iOS 멤버십** (2021.08 ~ 2021.12)<br/>
 
-<br/>
-
 ### 🙋🏻‍♂️ Experiences
 
 - **포항시 대안교육기관 청소년 자유학교의 `교사`** (2015.03 ~ 2021.06) </br>
@@ -33,14 +31,11 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 - **한동대학교 통일선도대학 사업단의 `프론트엔드 개발자`** (2020.09 ~ 2021.03) </br>
 - **대경권 프로그래밍 경진대회 `장려상 수상`** (2021.06 ~ 2021.06) </br>
 
-<br/>
-
 ### 👀 Projects
 
 - 🤖 **한동새섬봇** : 한동대 학생들을 위한 챗봇 [[GitHub](https://github.com/jeonyeohun/SaeSeomBot)][[홈페이지](https://pf.kakao.com/_XxaQyK)]
 - 🏃🏻‍♂️ **Mate Runner** : 친구와 함께 달리는 실시간 런닝 앱 [[GitHub](https://github.com/boostcampwm-2021/iOS06-MateRunner)]
 
-<br/>
 
 ### ✍ Recent Blog Posts 
 """ 
