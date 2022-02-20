@@ -33,8 +33,8 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 
 
 ### ✍ Recent Blog Posts 
+- [[스위프트 디자인패턴] 커맨드 패턴(Command Pattern)](https://jeonyeohun.tistory.com/389) <br>
 - [[스위프트 디자인패턴] 싱글톤 패턴(Singleton Pattern)](https://jeonyeohun.tistory.com/388) <br>
 - [[스위프트 디자인패턴] 추상 팩토리 패턴(Abstract Factory Pattern)](https://jeonyeohun.tistory.com/386) <br>
 - [[스위프트 디자인패턴] 팩토리 메서드 패턴(Factory Method Pattern)](https://jeonyeohun.tistory.com/385) <br>
 - [[iOS] NSCache의 캐시 정책 뜯어보기](https://jeonyeohun.tistory.com/383) <br>
-- [[스위프트 디자인패턴] 데코레이터 패턴(Decorator Pattern)](https://jeonyeohun.tistory.com/382) <br>
