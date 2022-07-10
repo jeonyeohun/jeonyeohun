@@ -33,7 +33,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 
 ### 👀 Projects
 
-- 🤖 **한동새섬봇** : 1200+명의 불편함을 해결하는 교내외 정보제공 챗봇 [[GitHub](https://github.com/jeonyeohun/SaeSeomBot)][[홈페이지](https://pf.kakao.com/_XxaQyK)]
+- 🤖 **한동새섬봇** : 1400+명의 불편함을 해결하는 교내외 정보제공 챗봇 [[GitHub](https://github.com/jeonyeohun/SaeSeomBot)][[홈페이지](https://pf.kakao.com/_XxaQyK)]
 - 🏃🏻‍♂️ **Mate Runner** : 친구와 함께 달리는 실시간 런닝 앱 [[GitHub](https://github.com/boostcampwm-2021/iOS06-MateRunner)]
 
 
