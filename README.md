@@ -28,8 +28,8 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 
 
 ### ✍ Recent Blog Posts 
+- [2023년을 마치며 남기고 싶은 이야기들](https://jeonyeohun.tistory.com/392) <br>
 - [[스위프트 디자인패턴] 템플릿 메서드 패턴(Template Method Pattern)](https://jeonyeohun.tistory.com/391) <br>
 - [[스위프트 디자인패턴] 반복자 패턴(Iterator Pattern)](https://jeonyeohun.tistory.com/390) <br>
 - [[스위프트 디자인패턴] 커맨드 패턴(Command Pattern)](https://jeonyeohun.tistory.com/389) <br>
 - [[스위프트 디자인패턴] 싱글톤 패턴(Singleton Pattern)](https://jeonyeohun.tistory.com/388) <br>
-- [[스위프트 디자인패턴] 추상 팩토리 패턴(Abstract Factory Pattern)](https://jeonyeohun.tistory.com/386) <br>
